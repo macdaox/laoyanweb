@@ -1,0 +1,21 @@
+{
+  "name": "laoyan-me",
+  "version": "1.0.0",
+  "description": "老严的网站首页 - laoyan.me",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "website",
+    "landing-page",
+    "personal-site"
+  ],
+  "author": "laoyan.me",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
